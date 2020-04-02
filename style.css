@@ -3,7 +3,7 @@
     src: url(bluunext.woff2), url(bluunext.woff);
 }
 body {
-    font-family: "Bluu Next", Montserrat;
+    font-family: "Bluu Next";
      font-size: 24px;
      line-height: 1.25;
      
