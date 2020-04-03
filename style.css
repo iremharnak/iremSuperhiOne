@@ -10,8 +10,8 @@ body {
      background-color: #edc7a9;
      background-image: linear-gradient(180deg, #ffffff,rgba(255,255,255,0));
      color: #000000;
-     /* margin: 40px auto 40px auto;
-     width: 620px; */
+     margin: 40px auto 40px auto;
+     width: 620px;
      height: 100vh;
     }
     h1 {
@@ -37,4 +37,18 @@ body {
          background-color: #3e78ed;
          border-radius: 50%;
          display: inline-block;
+     }
+     footer {
+         position: fixed;
+         bottom: 0;
+         left: 0;
+         width: 100%;
+         padding: 30px;
+         display: flex;
+         justify-content: center;
+         align-items: center;  
+     }
+
+     footer img {
+        margin: 0 20px 0 20px;
      }
